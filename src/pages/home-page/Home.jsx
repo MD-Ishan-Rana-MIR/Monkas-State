@@ -11,7 +11,7 @@ import RealEstateSection from './RealEstateSection'
 const Home = () => {
   return (
     <div>
-      {/* <Banner></Banner> */}
+      <Banner></Banner>
       <RealEstateSection></RealEstateSection>
       <LogoList></LogoList>
       <EstateService></EstateService>
